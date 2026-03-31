@@ -3,5 +3,7 @@
 ?>
 
 <!DOCTYPE html>
-<h1>Learning Health System Resources</h1>
-<p style="font-size:250%;text-align:center;">COMING SOON</p>
+<div style="font-family:Arial,serif;">
+    <h1>Learning Health System Resources</h1>
+    <p style="font-size:250%;text-align:center;">COMING SOON</p>
+</div>
